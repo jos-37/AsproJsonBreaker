@@ -1,2 +1,2 @@
-# AsproJsonBreaker
-Convert the Json Columns to Tables in a Database
+# AsproRDTool
+Aspro Json Columns to DB Tables
